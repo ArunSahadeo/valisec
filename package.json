@@ -1,0 +1,18 @@
+{
+  "name": "valisec",
+  "version": "1.0.0",
+  "description": "List all invalid selectors in your project's LESS, SASS and CSS files",
+  "main": "index.js",
+  "bin": {
+    "valisec": "bin/valisec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stylesheet traversal",
+    "CSS validation"
+  ],
+  "author": "Arun Sahadeo <arunjamessahadeo@gmail.com>",
+  "license": "GPL"
+}
