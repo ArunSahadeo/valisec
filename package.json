@@ -1,6 +1,6 @@
 {
   "name": "valisec",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List all invalid selectors in your project's LESS, SASS and CSS files",
   "main": "index.js",
   "bin": {
